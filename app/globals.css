@@ -10,6 +10,13 @@
   --color-foreground: var(--foreground);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
+
+  /* Kadokey Palette */
+  --color-kadokey-navy: #1F3A6E;
+  --color-kadokey-maroon: #B9364B;
+  --color-kadokey-pink: #EE5D7A;
+  --color-kadokey-yellow: #FFE66D;
+  --color-kadokey-blue: #7C9CC1;
 }
 
 @media (prefers-color-scheme: dark) {
