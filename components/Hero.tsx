@@ -34,7 +34,7 @@ export default function Hero() {
                         </h1>
 
                         <p className="text-lg text-gray-600 mb-8 max-w-xl mx-auto lg:mx-0 leading-relaxed">
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequatur necessitatibus illum explicabo. Illo exercitationem cupiditate labore quas? Nemo, placeat eum.
+                            Lebih dari sekedar toko souvenir, Kadokey adalah tempat dimana anda dapat mendapatkan pengalaman berbelanja yang unik dan menyenangkan dengan harga yang affordable
                         </p>
 
                         <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">

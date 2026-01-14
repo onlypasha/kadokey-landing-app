@@ -12,7 +12,7 @@ export default function Footer() {
                             Kadokey
                         </h2>
                         <p className="text-kadokey-blue/80 leading-relaxed max-w-sm">
-                            Lorem ipsum`` dolor sit, amet consectetur adipisicing elit. At, labore?
+                            Tertarik dengan produk yang kami tawarkan? Hubungi kami sekarang melalui Instagram atau datangi langsur toko kami sesuai alamat yang tertera di halaman ini!
                         </p>
                         <div className="flex gap-4 pt-2">
                             <SocialLink href="#" icon={<Instagram className="w-5 h-5" />} />
