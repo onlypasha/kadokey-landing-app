@@ -15,9 +15,7 @@ export default function Footer() {
                             Tertarik dengan produk yang kami tawarkan? Hubungi kami sekarang melalui Instagram atau datangi langsur toko kami sesuai alamat yang tertera di halaman ini!
                         </p>
                         <div className="flex gap-4 pt-2">
-                            <SocialLink href="#" icon={<Instagram className="w-5 h-5" />} />
-                            <SocialLink href="#" icon={<Facebook className="w-5 h-5" />} />
-                            <SocialLink href="#" icon={<Twitter className="w-5 h-5" />} />
+                            <SocialLink href="https://www.instagram.com/kado.key/" icon={<Instagram className="w-5 h-5" />} />
                         </div>
                     </div>
 
@@ -43,10 +41,6 @@ export default function Footer() {
                             </li>
                             <li className="flex items-center gap-3">
                                 <InstagramCopy href="https://www.instagram.com/kado.key/" />
-                            </li>
-                            <li className="flex items-center gap-3">
-                                <Phone className="w-5 h-5 flex-shrink-0 text-kadokey-pink" />
-                                <span>+62 123 4567 890</span>
                             </li>
                         </ul>
                     </div>
