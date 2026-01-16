@@ -42,7 +42,7 @@ export default function Hero() {
                                 href="#produk"
                                 className="inline-flex items-center justify-center px-8 py-4 text-white bg-kadokey-navy rounded-full font-semibold shadow-lg shadow-kadokey-navy/20 hover:bg-kadokey-maroon hover:scale-105 transition-all duration-300"
                             >
-                                Product
+                                Produk
                                 <ArrowRight className="ml-2 w-5 h-5" />
                             </a>
                             <a
